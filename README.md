@@ -84,4 +84,4 @@ atomic：线程安全，需要消耗大量的资源
 nonatomic：非线程安全，不过效率更高，一般使用nonatomic
 ```
 
-### NSThread，GCD，NSOperation的理解与使用，请到这里继续阅读：**[iOS多线程](http://www.jianshu.com/p/7649fad15cdb)**
+### NSThread，GCD，NSOperation的理解与使用，请到这里继续阅读：**[iOS多线程](https://www.jianshu.com/p/055af81adbbb)**
